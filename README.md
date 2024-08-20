@@ -1,5 +1,9 @@
 ## LDTS_l04_gr03 - Space Invaders
 
+Final Grade: 19.2/20
+
+
+
 This project is a re-adaption of the classical game Space Invaders, released in 1978 for the arcade video game machines and later to other platforms.
 The objective is to defeat a wave of descending aliens with a horizontally moving laser and earn as many points as possible by killing them and stop the invasion.
 
