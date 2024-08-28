@@ -1,6 +1,6 @@
 ## LDTS_l04_gr03 - Space Invaders
 
-Final Grade: 19.2/20
+*Final Grade: 19.2/20*
 
 
 
